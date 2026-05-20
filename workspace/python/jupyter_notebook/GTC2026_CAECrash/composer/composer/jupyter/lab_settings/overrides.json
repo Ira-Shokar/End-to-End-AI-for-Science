@@ -1,0 +1,5 @@
+{
+    "@jupyterlab/htmlviewer-extension:plugin": {
+      "trustByDefault": true
+    }
+}

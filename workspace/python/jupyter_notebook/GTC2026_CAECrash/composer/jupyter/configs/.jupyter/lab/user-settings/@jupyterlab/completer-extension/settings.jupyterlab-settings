@@ -1,0 +1,13 @@
+{
+    "preferences": {
+        "default_formatter": {
+            "python": [
+                "isort",
+                "black"
+            ],
+            "R": "formatR",
+            "rust": "rustfmt",
+            "c++11": "astyle"
+        }
+    }
+}
